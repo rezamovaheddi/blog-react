@@ -1,7 +1,8 @@
+import '../navbar/Navbar.css'
 function Navbar() {
     return (
         <div>
-           <ul className="header">
+           <ul className='header'>
             <li>لیست مقالات</li>
             <li>مقاله جدید</li>
             <li>درباره ما</li>
